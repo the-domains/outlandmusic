@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C8C8C8'
+    - '#781010'
+    - '#989898'
+    - '#E11E1E'
+    - '#000000'
+  brandStrength: 0.518092
+  lightness: 0.961355
+  rhythmicContrast: 0.736842
+  saturation: 0.084661
+cta: {}
+layout_spectrum: 0.068257
+name: 'OutlandMusic '
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.439967
