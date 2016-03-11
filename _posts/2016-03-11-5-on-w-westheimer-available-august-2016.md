@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "\"5 On W. Westheimer\" Available August 2016\_"
-datePublished: '2016-03-11T02:19:46.841Z'
-dateModified: '2016-03-11T02:16:58.385Z'
+datePublished: '2016-03-11T02:25:06.484Z'
+dateModified: '2016-03-11T02:21:44.332Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-11-5-on-w-westheimer-available-august-2016.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-5-on-w-westheimer-available-august-2016.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
